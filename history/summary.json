@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/melodymocktail.com.ico",
     "slug": "melody-mocktail",
     "status": "down",
-    "uptime": "95.54%",
-    "uptimeDay": "95.54%",
-    "uptimeWeek": "95.54%",
-    "uptimeMonth": "95.54%",
-    "uptimeYear": "95.54%",
+    "uptime": "17.46%",
+    "uptimeDay": "17.46%",
+    "uptimeWeek": "17.46%",
+    "uptimeMonth": "17.46%",
+    "uptimeYear": "17.46%",
     "time": 165,
     "timeDay": 165,
     "timeWeek": 165,
     "timeMonth": 165,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2024-03-07": 0
+      "2024-03-07": 27
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 225,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "time": 176,
+    "timeDay": 176,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 197,
-    "timeWeek": 197,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Webinars",
+    "url": "https://webinars.melodymocktail.com",
+    "icon": "https://icons.duckduckgo.com/ip3/webinars.melodymocktail.com.ico",
+    "slug": "webinars",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 172,
+    "timeDay": 172,
+    "timeWeek": 172,
+    "timeMonth": 172,
+    "timeYear": 172,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 218,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 253,
+    "timeDay": 253,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-07": 311
+      "2024-03-07": 337
     }
   },
   {
@@ -110,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-07": 311
+      "2024-03-07": 337
     }
   }
 ]

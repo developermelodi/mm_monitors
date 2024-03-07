@@ -8,3 +8,8 @@ assignees: # Users to assign downtime issues (optional)
 status-website: # Status website (optional)
   #cname: upptime.js.org # Custom domain CNAME
   #name: Upptime # Status website title
+navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      

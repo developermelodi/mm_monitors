@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/melodymocktail.com.ico",
     "slug": "melody-mocktail",
     "status": "down",
-    "uptime": "98.28%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "98.28%",
+    "uptime": "95.54%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "95.54%",
+    "uptimeYear": "95.54%",
     "time": 165,
     "timeDay": 165,
     "timeWeek": 165,
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-07": 310
+      "2024-03-07": 311
     }
   },
   {
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-07": 310
+      "2024-03-07": 311
     }
   }
 ]

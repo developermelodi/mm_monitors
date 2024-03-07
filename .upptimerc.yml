@@ -4,6 +4,8 @@ repo: mm_monitors # The name of this repository
 
 sites:
   - name: MelodyMocktail
+    url: https://melodymocktail.com
+  - name: www.MelodyMocktail
     url: https://www.melodymocktail.com
   - name: MelodyAdminSite
     url: https://admin.melodymocktail.com

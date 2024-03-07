@@ -9,6 +9,8 @@ sites:
     url: https://www.melodymocktail.com
   - name: MelodyAdminSite
     url: https://admin.melodymocktail.com
+  - name: Sample
+    url: https://webinars.melodymocktail.com
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site

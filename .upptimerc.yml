@@ -19,7 +19,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /mm_monitors
   logoUrl: https://melodymocktail.blob.core.windows.net/website/mmAwsImagesBucket/mmImages/mm/logo.png
-  name: Upptime
+  name: MelodyMocktailUptime
   introTitle: "MelodyMocktail Services Monitoring."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:

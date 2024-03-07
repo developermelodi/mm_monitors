@@ -12,9 +12,9 @@ sites:
   - name: Webinars
     url: https://webinars.melodymocktail.com
   - name: Google
-  url: https://google.com
+    url: https://google.com
   - name: wwGoogle
-  url: https://www.google.com
+    url: https://www.google.com
  
 
 status-website:

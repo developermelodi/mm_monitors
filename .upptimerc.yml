@@ -21,7 +21,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: monitoring.digitalmocktails.com
-  baseUrl: /mm_monitors
+ # baseUrl: /mm_monitors
   logoUrl: https://melodymocktail.blob.core.windows.net/website/mmAwsImagesBucket/mmImages/mm/logo.png
   name: MelodyMocktailUptime
   introTitle: "MelodyMocktail Services Monitoring."

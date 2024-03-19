@@ -44,19 +44,19 @@
     "url": "https://admin.melodymocktail.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.melodymocktail.com.ico",
     "slug": "melody-admin-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 95,
-    "timeWeek": 106,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 138,
+    "timeDay": 163,
+    "timeWeek": 128,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {
-      "2024-03-19": 0
+      "2024-03-19": 10
     }
   },
   {

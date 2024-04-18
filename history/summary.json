@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 163,
-    "timeDay": 140,
-    "timeWeek": 188,
+    "time": 162,
+    "timeDay": 126,
+    "timeWeek": 190,
     "timeMonth": 176,
-    "timeYear": 163,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2024-03-07": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 163,
-    "timeDay": 142,
-    "timeWeek": 159,
+    "time": 161,
+    "timeDay": 103,
+    "timeWeek": 161,
     "timeMonth": 176,
-    "timeYear": 163,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2024-03-07": 96
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 96,
-    "timeWeek": 167,
-    "timeMonth": 176,
-    "timeYear": 160,
+    "time": 158,
+    "timeDay": 73,
+    "timeWeek": 163,
+    "timeMonth": 175,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 150,
-    "timeWeek": 192,
-    "timeMonth": 206,
-    "timeYear": 349,
+    "time": 344,
+    "timeDay": 66,
+    "timeWeek": 188,
+    "timeMonth": 203,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -81,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.melodymocktail.com.ico",
     "slug": "auth-api",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.39%",
-    "uptimeYear": "99.51%",
-    "time": 246,
-    "timeDay": 91,
-    "timeWeek": 150,
-    "timeMonth": 272,
-    "timeYear": 246,
+    "uptimeYear": "99.52%",
+    "time": 241,
+    "timeDay": 32,
+    "timeWeek": 143,
+    "timeMonth": 270,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2024-03-28": 228,
       "2024-03-27": 40
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 335,
-    "timeWeek": 208,
-    "timeMonth": 178,
+    "timeDay": 166,
+    "timeWeek": 202,
+    "timeMonth": 177,
     "timeYear": 159,
     "dailyMinutesDown": {}
   }

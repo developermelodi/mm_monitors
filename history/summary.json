@@ -62,18 +62,20 @@
     "url": "https://webinars.melodymocktail.com",
     "icon": "https://icons.duckduckgo.com/ip3/webinars.melodymocktail.com.ico",
     "slug": "webinars",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 169,
-    "timeWeek": 228,
-    "timeMonth": 189,
-    "timeYear": 293,
-    "dailyMinutesDown": {}
+    "time": 292,
+    "timeDay": 202,
+    "timeWeek": 229,
+    "timeMonth": 191,
+    "timeYear": 292,
+    "dailyMinutesDown": {
+      "2024-05-21": 0
+    }
   },
   {
     "name": "Auth API",

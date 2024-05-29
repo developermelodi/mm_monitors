@@ -13,6 +13,8 @@ sites:
     url: https://webinars.melodymocktail.com
   - name: Auth API
     url: https://auth.melodymocktail.com
+  - name: Backend API
+    url: https://api-testing-x7r9p3a2.melodymocktail.com
   - name: Google
     url: https://google.com
  
